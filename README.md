@@ -3,13 +3,13 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/25b7c34d8bfa28babf09b.jpg">
+  <img src="https://telegra.ph/file/904b7ce31b8214cb44052.jpg">
 </p>
 
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/25b7c34d8bfa28babf09b.jpg">
+  <img src="https://telegra.ph/file/904b7ce31b8214cb44052.jpg">
 </p>
 
 <h3 align="center">
